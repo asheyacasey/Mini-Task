@@ -1,0 +1,7 @@
+{
+  "name": "mini-task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
