@@ -1,3 +1,24 @@
+# Ionic React Mini Task
+
+## How to run the project?
+
+- install the node module
+```
+npm install
+```
+
+- ionic cli install
+```
+npm install -g @ionic/cli
+```
+
+- run the project
+```
+ionic serve
+```
+
+
+## Task
 1. Develop a simple Ionic (React) web app.
 2. Fetch and display 100 users from https://randomuser.me/.
 3. Use IonItem for a scrollable user list.
